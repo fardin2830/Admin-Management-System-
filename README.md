@@ -6,7 +6,7 @@ Welcome to our robust Admin Management System, a centralized platform designed t
 
 ## Live Link
 
- - [Awesome Readme Templates]([https://quantum-asset-solutions.web.app/])
+ - [Awesome Readme Templates](https://quantum-asset-solutions.web.app/)
 
 
 ## API Reference
